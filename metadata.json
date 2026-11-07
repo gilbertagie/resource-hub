@@ -1,0 +1,6 @@
+{
+  "name": "CampusHub - Student Resource & Prompt Architect",
+  "description": "Comprehensive student academic hub featuring learning materials, campus events, scholarships, and past papers, along with an interactive AI Studio prompt builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
